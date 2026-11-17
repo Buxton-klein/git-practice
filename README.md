@@ -4,3 +4,7 @@
 I am learning Git and GitHub step by step.
 Testing readable Git diffs.
 This file is now saved as UTF-8.
+
+## GitHub connection
+
+My local Git repository is now connected to GitHub.
